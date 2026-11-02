@@ -1,3 +1,13 @@
+---
+Title: Sound of Metal
+Year: 2019
+Genre: Film
+Music: Cet Anneau D'or
+Composer: Marguerite Monnot, René Rouzaud
+Disease: Sudden hearing loss
+ICD: H91.23
+---
+
 # 해용-전.md
 
 한글 버전
