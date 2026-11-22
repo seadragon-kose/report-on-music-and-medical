@@ -4,7 +4,7 @@ Year: 2019
 Genre: Film
 Music: Cet Anneau D'or
 Composer: Marguerite Monnot, René Rouzaud
-Disease: Sudden hearing loss
+Disease: Sudden idiopathic hearing loss
 ICD: AB55
 ---
 
