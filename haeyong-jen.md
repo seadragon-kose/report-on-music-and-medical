@@ -5,7 +5,7 @@ Genre: Film
 Music: Cet Anneau D'or
 Composer: Marguerite Monnot, René Rouzaud
 Disease: Sudden hearing loss
-ICD: H91.23
+ICD: AB55
 ---
 
 # 해용-전.md
